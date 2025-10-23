@@ -1,6 +1,6 @@
 const gotobutton = document.getElementById("button");
 
-// Tentukan batas scroll (500px, sesuai perintah)
+// Tentukan batas scroll (500px)
 const scrollThreshold = 500; 
 
 window.onscroll = function () {
